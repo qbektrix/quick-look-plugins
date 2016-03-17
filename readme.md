@@ -25,6 +25,9 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 ## Plugins
 
 
+### [Quicklook Video](https://github.com/Marginal/QLVideo)
+Run `brew cask install qlvideo`
+
 ### [QLColorCode](https://code.google.com/p/qlcolorcode/)
 
 > Preview source code files with syntax highlighting
